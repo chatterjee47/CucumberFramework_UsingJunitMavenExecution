@@ -1,0 +1,354 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 383800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "admindemoWebSiteFeatureTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 286400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AlertsFrameWindowsBrowserwindowsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 206700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AlertsFrameWindowsNestedFramesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 173400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WebElementClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 157000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "PageObjectModelTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 158501,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WidgetsDatePickerTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 145500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "JavaScriptClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 257500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "VerifyWebsitesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 252700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "RadiobuttonTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 195800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SelectNMDateTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 172000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "IFramepageTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 166599,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AjaxLoaderTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 163600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "PopupsAlertsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 229300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "DropdownMenuCheckboxeRadioBtnsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 258300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WebTablesTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 237500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "CheckboxTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 205901,
+              "status": "passed"
+            },
+            "match": {
+              "location": "DatepickerTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 240500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AccordianTextAffectsTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 243801,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionMoveClickTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 220500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ScrollingTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 189599,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioThree.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 184700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "FileUploadTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 186200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ButtonsKeywordTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 188100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AutocompleteTextFieldTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 566299,
+              "status": "passed"
+            },
+            "match": {
+              "location": "WidgetsAccordianTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 184100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioTwo.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 164100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "LoginPortalTest.Configuration()"
+            }
+          },
+          {
+            "result": {
+              "duration": 298200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ActionsTest_ScenarioOne.Configuration()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "To verify Check box function",
+        "description": "",
+        "id": "verifying-features-for-demoqa.com;to-verify-check-box-function",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12689954200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I go to \u0027https://demoqa.com/elements\u0027",
+            "match": {
+              "location": "CheckboxTest.i_go_to_https_demoqa_com_elements()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3229540800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click check box",
+            "match": {
+              "location": "CheckboxTest.i_click_check_box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3061910600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click the home accordion button to expand it",
+            "match": {
+              "location": "CheckboxTest.i_click_the_home_accordion_button_to_expand_it()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3069196800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click the downloads accordion button to expand it",
+            "match": {
+              "location": "CheckboxTest.i_click_the_downloads_accordion_button_to_expand_it()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3096860700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I tick Word File.doc",
+            "match": {
+              "location": "CheckboxTest.i_tick_Word_File_doc()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 168687601,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the section should be ticked",
+            "match": {
+              "location": "CheckboxTest.the_section_should_be_ticked()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@Checkbox"
+          }
+        ]
+      }
+    ],
+    "name": "Verifying features for demoqa.com",
+    "description": "",
+    "id": "verifying-features-for-demoqa.com",
+    "keyword": "Feature",
+    "uri": "demoqa.feature"
+  }
+]

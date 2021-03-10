@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.322467">
+<testcase classname="Verifying features for demoqa.com" name="To verify Check box function" time="25.322467">
+<system-out><![CDATA[Given I go to 'https://demoqa.com/elements'.................................passed
+And I click check box.......................................................passed
+When I click the home accordion button to expand it.........................passed
+And I click the downloads accordion button to expand it.....................passed
+And I tick Word File.doc....................................................passed
+Then the section should be ticked...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

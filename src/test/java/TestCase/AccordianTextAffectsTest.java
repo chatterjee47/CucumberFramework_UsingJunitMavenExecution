@@ -59,8 +59,6 @@ public class AccordianTextAffectsTest {
 		util.WindowHandle();
 		util.ChildWindow();
 		atap.manualtestingbtn();
-		
-	
 	}
 
 	@When("^I verify the following  Manual Testing text display$")
